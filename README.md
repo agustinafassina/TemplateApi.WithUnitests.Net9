@@ -1,5 +1,5 @@
 # TemplateApi with .Net9 and Unit tests
-This repository provides a REST API template built with .NET 8 with unit tests, designed to streamline and accelerate the deployment of web services in your daily projects. It includes built-in authorization to secure your endpoints from the start, enabling quick and secure deployment. Perfect for developers seeking a solid, easy-to-configure base for their APIs.<br>
+This repository provides a REST API template built with .NET 9 with unit tests, designed to streamline and accelerate the deployment of web services in your daily projects. It includes built-in authorization to secure your endpoints from the start, enabling quick and secure deployment. Perfect for developers seeking a solid, easy-to-configure base for their APIs.<br>
 This is a copy of Template.Api.Net8.
 
 ### Template.Api: folder structure
